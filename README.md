@@ -23,6 +23,7 @@ Tech
 - Tailwind CSS 3 (dark mode via class, persistent in localStorage)
 - Vite 5
 - chart.js + react-chartjs-2
+  
 ![dashmin-light](https://github.com/user-attachments/assets/988946c6-8faf-40d3-aab2-ea4ea31bce77)
 
 ![dashmin-dark](https://github.com/user-attachments/assets/1f4c5638-35d4-46b6-ad8b-83c1eeede38a)
